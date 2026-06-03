@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# SQLite database
+*.db
+
+# ZIP reference database
+data/reference/simplemaps_uszips_basicv1.94/
+
+# OS files
+.DS_Store
+Thumbs.db

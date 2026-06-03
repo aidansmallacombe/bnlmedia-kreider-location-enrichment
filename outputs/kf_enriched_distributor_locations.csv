@@ -1,0 +1,768 @@
+location_id,retailer_group,address,city,state,zip,county
+Acme,ACME,400 Simpson Dr,Chester Springs,PA,19425,Chester
+Acme,ACME,701 Cathedral Rd,Philadelphia,PA,19128,Philadelphia
+Acme,ACME,800 2nd St Pike,Richboro,PA,18954,Bucks
+Acme,ACME,315 Ocean St,Cape May,NJ,08204,Cape May
+Acme,ACME,41 W Main St,Maple Shade,NJ,08052,Burlington
+Acme,ACME,4001 Walnut St,Philadelphia,PA,19104,Philadelphia
+Acme,ACME,100 E Black Horse Pike,Audubon,NJ,08106,Camden
+Acme,ACME,2301 Bristol Rd,Bensalem,PA,19020,Bucks
+Acme,ACME,101 Byers Dr,Glen Mills,PA,19342,Delaware
+Acme,ACME,3951 Lincoln Hwy E,West Bradford Township,PA,19335,Chester
+Acme,ACME,1991 N Sproul Rd,Broomall,PA,19008,Delaware
+Acme,ACME,425 U.S. 9,Little Egg Harbor Township,NJ,08087,Ocean
+Acme,ACME,590 Kings Hwy,Maple Shade,NJ,08052,Burlington
+Acme,ACME,48 W Rd,George School,PA,18940,Bucks
+Acme,ACME,100 N Black Horse Pike,Mt Ephraim,NJ,08059,Camden
+Acme,ACME,912 W Bay Ave,Barnegat,NJ,08005,Ocean
+Acme,ACME,260 Dunns Mill Rd,Bordentown,NJ,08505,Burlington
+Acme,ACME,4236 Harbor Beach Blvd,Brigantine,NJ,08203,Atlantic
+Acme,ACME,18 Broadway St,Browns Mills,NJ,08015,Burlington
+Acme,ACME,Ocean St & Lafayette St,Cape May,NJ,08204,Cape May
+Acme,ACME,11 Court House South Dennis Rd,Cape May Court House,NJ,08210,Cape May
+Acme,ACME,15 Avalon Blvd,Cape May Court House,NJ,08210,Cape May
+Acme,ACME,20 S Delsea Dr,Clayton,NJ,08312,Gloucester
+Acme,ACME,2 Walnut St,Haddonfield,NJ,08033,Camden
+Acme,ACME,1619 Center Square Rd,Logan Township,NJ,08085,Gloucester
+Acme,ACME,9600 Long Beach Blvd,Long Beach Township,NJ,08008,Ocean
+Acme,ACME,609 E Bay Ave,Manahawkin,NJ,08050,Ocean
+Acme,ACME,300 S Lenola Rd,Maple Shade Township,NJ,08052,Burlington
+Acme,ACME,41 W Main St,Maple Shade Township,NJ,08052,Burlington
+Acme,ACME,4454 E Black Horse Pike,Mays Landing,NJ,08330,Atlantic
+Acme,ACME,175 NJ-70,Medford,NJ,08055,Burlington
+Acme,ACME,531 High St,Mt Holly,NJ,08060,Burlington
+Acme,ACME,3845 Bayshore Rd,North Cape May,NJ,08204,Cape May
+Acme,ACME,800 West Ave,Ocean City,NJ,08226,Cape May
+Acme,ACME,2400 Delaware Ave,Wildwood,NJ,08260,Cape May
+Acme,ACME,3428 Simpson Ave,Ocean City,NJ,08226,Cape May
+Acme,ACME,2087 Shore Rd,Ocean View,NJ,08230,Cape May
+Acme,ACME,501 E Evesham Rd,Runnemede,NJ,08078,Camden
+Acme,ACME,6212 Landis Ave,Sea Isle City,NJ,08243,Cape May
+Acme,ACME,415 Egg Harbor Rd,Sewell,NJ,08080,Gloucester
+Acme,ACME,515 Berlin - Cross Keys Rd,Sicklerville,NJ,08081,Camden
+Acme,ACME,212 New Rd,Somers Point,NJ,08244,Atlantic
+Acme,ACME,425 U.S. 9,Tuckerton,NJ,08087,Ocean
+Acme,ACME,5100 Wellington Ave,Ventnor City,NJ,08406,Atlantic
+Acme,ACME,700 Haddonfield-Berlin Rd,Voorhees Township,NJ,08043,Camden
+Acme,ACME,400 W Cuthbert Blvd,Haddon Township,NJ,08108,Camden
+Acme,ACME,23 Levitt Pkwy,Willingboro,NJ,08046,Burlington
+Acme,ACME,631 W Mantua Ave,Wenonah,NJ,08090,Gloucester
+Acme,ACME,121 E City Ave,Bala Cynwyd,PA,19004,Montgomery
+Acme,ACME,2301 Pasqualone Blvd,Bensalem,PA,19020,Bucks
+Acme,ACME,567 N Sproul Rd,Broomall,PA,19008,Delaware
+Acme,ACME,601 W Lancaster Ave,Bryn Mawr,PA,19010,Delaware
+Acme,ACME,Simpson Dr,Chester Springs,PA,19425,Chester
+Acme,ACME,1336 Bristol Pike,Bensalem,PA,19020,Bucks
+Acme,ACME,2101 Cottman Ave,Philadelphia,PA,19149,Philadelphia
+Acme,ACME,7700 Crittenden St,Philadelphia,PA,19118,Philadelphia
+Acme,ACME,3951 Lincoln Hwy,Downingtown,PA,19335,Chester
+Acme,ACME,480 N Main St,Doylestown,PA,18901,Bucks
+Acme,ACME,1825 Limekiln Pike,Dresher,PA,19025,Montgomery
+Acme,ACME,105 E Street Rd,Feasterville-Trevose,PA,19053,Bucks
+Acme,ACME,124 Morton Ave,Folsom,PA,19033,Delaware
+Acme,ACME,180 W Girard Ave,Philadelphia,PA,19123,Philadelphia
+Acme,ACME,503 S MacDade Blvd,Holmes,PA,19043,Delaware
+Acme,ACME,200 Blair Mill Rd,Horsham,PA,19044,Montgomery
+Acme,ACME,6800 New Falls Rd,Levittown,PA,19057,Bucks
+Acme,ACME,527 E Baltimore Pike,Media,PA,19063,Delaware
+Acme,ACME,1095 W Baltimore Pike,Media,PA,19063,Delaware
+Acme,ACME,48 W Rd,Newtown,PA,18940,Bucks
+Acme,ACME,W Ridge Pike,Plymouth Meeting,PA,19428,Montgomery
+Acme,ACME,39 Leopard Rd,Paoli,PA,19301,Chester
+Acme,ACME,1400 E Passyunk Ave,Philadelphia,PA,19147,Philadelphia
+Acme,ACME,1901 Johnston St,Philadelphia,PA,19145,Philadelphia
+Acme,ACME,3200 Red Lion Rd,Philadelphia,PA,19114,Philadelphia
+Acme,ACME,8500 Henry Ave #34,Philadelphia,PA,19128,Philadelphia
+Acme,ACME,6601 Roosevelt Blvd,Philadelphia,PA,19149,Philadelphia
+Acme,ACME,7010 Germantown Ave,Philadelphia,PA,19119,Philadelphia
+Acme,ACME,6640 Oxford Ave,Philadelphia,PA,19111,Philadelphia
+Acme,ACME,8200 Roosevelt Blvd,Philadelphia,PA,19152,Philadelphia
+Acme,ACME,920 Red Lion Rd,Philadelphia,PA,19115,Philadelphia
+Acme,ACME,5927 Ridge Ave,Philadelphia,PA,19128,Philadelphia
+Acme,ACME,785 Starr St,Phoenixville,PA,19460,Chester
+Acme,ACME,309 S 5th St,Philadelphia,PA,19106,Philadelphia
+Acme,ACME,800 2nd St Pike,Southampton,PA,18954,Bucks
+Acme,ACME,29 Snyder Ave,Philadelphia,PA,19148,Philadelphia
+Acme,ACME,1001 South St,Philadelphia,PA,19147,Philadelphia
+Acme,ACME,7901 N Lansdowne Ave,Upper Darby,PA,19082,Delaware
+Acme,ACME,700 W Lancaster Ave,Devon,PA,19333,Chester
+Acme,ACME,250. E Lancaster Ave,Ardmore,PA,19003,Delaware
+Acme Store #114,ACME,7010 Germantown Ave.,Philadelphia,PA,19119,Philadelphia
+Acme Store #147,ACME,920 Red Lion Road,Philadelphia,PA,19115,Philadelphia
+Acme Store #1725,ACME,8200 Roosevelt Blvd.,Philadelphia,PA,19152,Philadelphia
+Acme Store #1770,ACME,503 S. MacDade Blvd.,Holmes,PA,19043,Delaware
+Acme Store #1908,ACME,18 Broadway,Browns Mills,NJ,08015,Burlington
+Acme Store #192,ACME,39 Leopard Road,Paoli,PA,19301,Chester
+Acme Store #1945,ACME,2 Walnut Street,Haddonfield,NJ,08033,Camden
+Acme Store #2397,ACME,4001 Walnut St.,Philadelphia,PA,19104,Philadelphia
+Acme Store #2649,ACME,800 West Avenue,Ocean City,NJ,08226,Cape May
+Acme Store #2668,ACME,1001 South Street,Philadelphia,PA,19147,Philadelphia
+Acme Store #2693,ACME,643 Conchester Pike,Boothwyn,PA,19061,Delaware
+Acme Store #2704,ACME,6601 Roosevelt Blvd.,Philadelphia,PA,19149,Philadelphia
+Acme Store #2762,ACME,5927-59 Ridge Avenue,Philadelphia,PA,19128,Philadelphia
+Acme Store #2771,ACME,29 Snyder Ave.,Philadelphia,PA,19148,Philadelphia
+Acme Store #2774,ACME,200 Blair Mill Road,Horsham,PA,19044,Montgomery
+Acme Store #2789,ACME,7901 Lansdowne Avenue,Upper Darby,PA,19082,Delaware
+Acme Store #2833,ACME,7700 Crittenden Ave.,Philadelphia,PA,19118,Philadelphia
+Acme Store #2876,ACME,1095 West Baltimore Pike,Media,PA,19063,Delaware
+Acme Store #291,ACME,180 West Girard Avenue,Philadelphia,PA,19123,Philadelphia
+Acme Store #2977,ACME,6800 New Falls Road,Levittown,PA,19057,Bucks
+Acme Store #299,ACME,2101-41 Cottman Ave.,Philadelphia,PA,19149,Philadelphia
+Acme Store #3711,ACME,121 East City Ave,Bala Cynwd,PA,19004,Montgomery
+Acme Store #3719,ACME,2301 Bristol Road,Cornwells Heights,PA,19020,Bucks
+Acme Store #3735,ACME,101 Byers Drive,Glen Mills,PA,19342,Delaware
+Acme Store #3739,ACME,105 East Street Road,Feasterville,PA,19053,Bucks
+Acme Store #3742,ACME,3200-92 Red Lion Road,Philadelphia,PA,19114,Philadelphia
+Acme Store #3753,ACME,700 West Lancaster Avenue,Wayne,PA,19087,Chester
+Acme Store #3767,ACME,3951 Lincoln Highway,Downingtown,PA,19335,Chester
+Acme Store #3784,ACME,480 North Main Street,Doylestown,PA,18901,Bucks
+Acme Store #3786,ACME,3590 West Chester Pike,Newtown Square,PA,19073,Delaware
+Acme Store #3788,ACME,601 W. Lancaster Avenue,Bryn Mawr,PA,19010,Delaware
+Acme Store #3796,ACME,5300 Baltimore Pike,Clifton Heights,PA,19018,Delaware
+Acme Store #3798,ACME,1991 N Sproul Road,Broomall,PA,19008,Delaware
+Acme Store #4715,ACME,1901 Johnston Street,Philadelphia,PA,19145,Philadelphia
+Acme Store #4723,ACME,1640 Bethlehem Pike,Flourtown,PA,19031,Montgomery
+Acme Store #4727,ACME,2761 W Ridge Pike,Norristown,PA,19403,Montgomery
+Acme Store #4913,ACME,48 West Road,Newtown,PA,18940,Bucks
+Acme Store #613,ACME,829 Montgomery Ave,Penn Valley,PA,19072,Montgomery
+Acme Store #703,ACME,400 Simpson Drive,Chester Springs,PA,19425,Chester
+Acme Store #721,ACME,785 Starr Street,Phoenixville,PA,19460,Chester
+Acme Store #726,ACME,1400 East Passyunk Avenue,Philadelphia,PA,19147,Philadelphia
+Acme Store #730,ACME,851 Gap Newport Pike,Avondale,PA,19311,Chester
+Acme Store #731,ACME,701 Cathedral Road Suite 34,Philadelphia,PA,19128,Philadelphia
+Acme Store #769,ACME,323 Old York Rd ,Jenkintown,PA,19046,Montgomery
+Acme Store #773,ACME,1305 West Chester Pike,Havertown,PA,19083,Delaware
+Acme Store #778,ACME,800 2nd Street Pike,Richboro,PA,18954,Bucks
+Acme Store #779,ACME,1336 Bristol Pike Suite 100,Cornwells Heights,PA,19020,Bucks
+Acme Store #787,ACME,6640 Oxford Avenue,Philadelphia,PA,19111,Philadelphia
+Acme Store #809,ACME,527 E. Baltimore Pike,Media,PA,19063,Delaware
+Acme Store #882,ACME,907 Paoli Pike,West Chester,PA,19380,Chester
+Acme Store #893,ACME,124 Morton Avenue,Folsom,PA,19033,Delaware
+ALTOMONTE'S ITALIAN MARKET-DOYLESTOWN,ALTOMONTE'S ITALIAN MARKET,856 N. Easton Road,Doylestown,PA,18901,Bucks
+ALTOMONTE'S ITALIAN MARKET-WARMINSTER,ALTOMONTE'S ITALIAN MARKET,85 N. York Road,Warminister,PA,18974,Bucks
+"ANTHONY DIENNER, LLC","ANTHONY DIENNER, LLC",51 N 12th & Arch Street- Reading Terminal,Philadelphia,PA,19107,Philadelphia
+"BB'S GROC OUTLET-OXFORD, PA",BB'S GROC OUTLET,2176 BALTIMORE PIKE,OXFORD,PA,19363,Chester
+Bell's Market,BELL'S MARKET,8330 Bustleton Ave,Philadelphia,PA,19152,Philadelphia
+Bell's Market,BELL'S MARKET,1055 Bustleton Pike,Feasterville-Trevose,PA,19053,Bucks
+BELL'S MARKET - FEASTERVILLE,BELL'S MARKET,1055 BUSTLETON PIKE,FEASTERVILLE,PA,19053,Bucks
+BELL'S MARKET - PHILLY,BELL'S MARKET,8330 BUSTLETON AVENUE,PHILADELPHIA,PA,19152,Philadelphia
+BOOTHWYN CORNER FARMER'S MARKET - TJ'S GRILL N CHILL,BOOTHWYN CORNER FARMER'S MARKET,1362 Naamans Creek Rd,Garnet Valley,PA,19060,Delaware
+COLUMBUS MARKET - REBECCA'S SOFT PRETZELS,COLUMBUS MARKET,2919 Route 206,Columbus,NJ,08022,Burlington
+COLUMBUS MARKET - Sarah's Subs and Salad,COLUMBUS MARKET,Columbus,Mansfield,NJ,08022,Burlington
+Deterding's Family Mkt,DETERDING'S FAMILY MKT,506 E Gibbsboro Rd,Lindenwold,NJ,08021,Camden
+Dutch Family Deli,DUTCH FAMILY DELI,108 Swedesboro Rd,Mullica Hill,NJ,08062,Gloucester
+DUTCH FAMILY DELI,DUTCH FAMILY DELI,Mullica Hill Farmer's Market- 108 SWEDESBORO ROAD,MULLICA HILL,NJ,08062,Gloucester
+FARM ART PRODUCE,FARM ART PRODUCE,1111 E Ashland Ave,Folcroft,PA,19032,Delaware
+FOOD LINE MANAGEMENT COMPANY,FOOD LINE MANAGEMENT COMPANY,2497 ARAMINGO AVE.,PHILADELPHIA,PA,19125,Philadelphia
+Fresh Grocer,FRESH GROCER,5000 State Rd,Drexel Hill,PA,19026,Delaware
+Fresh Grocer,FRESH GROCER,5601 Chestnut St,Philadelphia,PA,19139,Philadelphia
+Fresh Grocer,FRESH GROCER,421 S 69th St,Upper Darby,PA,19082,Delaware
+Fresh Grocer,FRESH GROCER,5301 Chew Ave,Philadelphia,PA,19138,Philadelphia
+Fresh Grocer,FRESH GROCER,1501 N Broad St,Philadelphia,PA,19122,Philadelphia
+Fresh Grocer,FRESH GROCER,5075 Edgmont Ave,Brookhaven,PA,19015,Delaware
+Fresh Grocer,FRESH GROCER,4160 Monument Rd,Philadelphia,PA,19131,Philadelphia
+Fresh Grocer,FRESH GROCER,3021 Grays Ferry Ave,Philadelphia,PA,19146,Philadelphia
+George's Market at Dreshertown,GEORGE'S MARKET AT DRESHERTOWN,"1650 Limekiln Pike, Suite 29",Dresher,PA,19025,Montgomery
+Giant,GIANT,1824 E Ridge Pike,Royersford,PA,19468,Montgomery
+Giant,GIANT,698 Downingtown Pike,West Chester,PA,19380,Chester
+Giant,GIANT,US-202,New Britain,PA,18901,Bucks
+Giant,GIANT,PA-611 & Stump Rd,Plumsteadville,PA,18902,Bucks
+Giant,GIANT,PA-413,Penndel,PA,19047,Bucks
+Giant,GIANT,550 E Lancaster Ave,Wayne,PA,19087,Chester
+Giant,GIANT,1121 N Bethlehem Pike,North Wales,PA,19477,Montgomery
+Giant,GIANT,830 E Baltimore Pike,Kennett Square,PA,19348,Chester
+Giant,GIANT,4275 County Line Rd,Chalfont,PA,18914,Bucks
+Giant,GIANT,4855 West Chester Pike,Newtown Square,PA,19073,Delaware
+GIANT #6011 - PLYMOUTH MEETING,GIANT,2450 CHEMICAL RD,PLYMOUTH MEETING,PA,19462,Montgomery
+GIANT #6018 - SOUDERTON,GIANT,760 ROUTE 113,SOUDERTON,PA,18964,Montgomery
+GIANT #6023 - PHOENIXVILLE,GIANT,700 NUTT ROAD,PHOENIXVILLE,PA,19460,Chester
+GIANT #6045 - WEST GROVE,GIANT,849 WEST BALTIMORE PIKE,WEST GROVE,PA,19390,Chester
+GIANT #6046 - BENSALEM,GIANT,2721 STREET ROAD,BENSALEM,PA,19020,Bucks
+GIANT #6051 - EXTON,GIANT,141 EAST SWEDESFORD ROAD,EXTON,PA,19341,Chester
+GIANT #6062 - YARDLEY,GIANT,700 STONY HILL ROAD,YARDLEY,PA,19067,Bucks
+GIANT #6083 - ALDAN,GIANT,539 NORTH OAK AVENUE,ALDAN,PA,19018,Delaware
+GIANT #6084 - NORRISTOWN,GIANT,2670 TROOPER ROAD,NORRISTOWN,PA,19403,Montgomery
+GIANT #6089 - HORSHAM,GIANT,DRESHER ROAD & HORSHAM ROAD,HORSHAM,PA,19044,Montgomery
+GIANT #6091 - BLUE BELL,GIANT,1760 DEKALB PIKE,BLUE BELL,PA,19422,Montgomery
+GIANT #6094 - FAIRLESS HILLS,GIANT,471 OXFORD VALLEY ROAD,FAIRLESS HILLS,PA,19030,Bucks
+GIANT #6095 - SOUTHAMPTON,GIANT,2ND STREET PIKE & KNOWLES ROAD,SOUTHAMPTON,PA,18966,Bucks
+GIANT #6103 - MORRISVILLE,GIANT,833 WEST TRENTON AVENUE,MORRISVILLE,PA,19067,Bucks
+GIANT #6105 - KENNETT SQUARE,GIANT,350 SCARLET ROAD #220,KENNETT SQUARE,PA,19348,Chester
+GIANT #6106 - NEW HOPE,GIANT,6542 LOWER YORK ROAD,NEW HOPE,PA,18938,Bucks
+GIANT #6257 - WARMINSTER,GIANT,720-D WEST STREET ROAD,WARMINSTER,PA,18974,Bucks
+GIANT #6265 - MONTGOMERY,GIANT,ROUTE 309 & KNAPP RD,MONTGOMERY,PA,19454,Montgomery
+GIANT #6278 - ASTON,GIANT,3400 CONCORD RD,ASTON,PA,19014,Delaware
+GIANT #6284 - LIMERICK,GIANT,1824 RIDGE PK,LIMERICK,PA,19468,Montgomery
+GIANT #6317 - ROYERSFORD,GIANT,967 SOUTH TOWNSHIP LINE ROAD,ROYERSFORD,PA,19468,Montgomery
+GIANT #6324 - LEVITTOWN,GIANT,4595 NEWFALLS ROAD,LEVITTOWN,PA,19056,Bucks
+GIANT #6329 - LANSDOWNE,GIANT,300 E. BALTIMORE AVE,LANSDOWNE,PA,19050,Delaware
+GIANT #6333 - QUAKERTOWN,GIANT,901 S. WEST END BLVD,QUAKERTOWN,PA,18951,Bucks
+GIANT #6442 - HAVERTOWN,GIANT,100 QUARRY CTR DR,HAVERTOWN,PA,19083,Delaware
+GIANT #6445 - HATFIELD,GIANT,SNYDER SQ SHOP CTR,HATFIELD,PA,19440,Montgomery
+GIANT #6448 - POTTSTOWN,GIANT,UPLAND SQUARE DR SUITE 180,POTTSTOWN,PA,19464,Montgomery
+GIANT #6463 - GILBERTSVILLE,GIANT,173 HOLLY RD,GILBERTSVILLE,PA,19525,Montgomery
+GIANT #6468 - PHILADELPHIA,GIANT,GRANT AVE,PHILADELPHIA,PA,19115,Philadelphia
+GIANT #6471 - POTTSTOWN,GIANT,RT100 & TEMPLE RD,POTTSTOWN,PA,19465,Chester
+GIANT #6472 - HARLEYSVILLE,GIANT,611 MAIN ST,HARLEYSVILLE,PA,19438,Montgomery
+GIANT #6473 - NEW BRITAIN,GIANT,US 202,NEW BRITAIN,PA,18901,Bucks
+GIANT #6474 - PERKASIE,GIANT,1153 N 5TH ST,PERKASIE,PA,18944,Bucks
+GIANT #6476 - QUAKERTOWN,GIANT,1465 W BROAD ST,QUAKERTOWN,PA,18951,Bucks
+GIANT #6477 - FRAZER,GIANT,US 30 & MALIN ST,FRAZER,PA,19355,Chester
+GIANT #6478 - EXTON,GIANT,168 EAGLEVIEW BLVD,EXTON,PA,19341,Chester
+GIANT #6480 - LANGHORNE,GIANT,RT 413 & RT 332 E,LANGHORNE,PA,19047,Bucks
+GIANT #6481 - CONSHOHOCKEN,GIANT,10 RIDGE PK,CONSHOHOCKEN,PA,19428,Montgomery
+GIANT #6506 - WYNNEWOOD,GIANT,50 E WYNNEWOOD RD,WYNNEWOOD,PA,19096,Montgomery
+GIANT #6507 - ST DAVIDS,GIANT,550 E LANCASTER AVE,ST DAVIDS,PA,19087,Chester
+GIANT #6509 - HUNTINGDON VALLEY,GIANT,737 HUNTINGDON PK,HUNTINGDON VALLEY,PA,19006,Montgomery
+GIANT #6510 - SPRING HOUSE,GIANT,1121 BETHLEHEM PK,SPRING HOUSE,PA,19477,Montgomery
+GIANT #6511 - SPRINGFIELD,GIANT,950 BALTIMORE PK,SPRINGFIELD,PA,19064,Delaware
+GIANT #6512 - KING OF PRUSSIA,GIANT,310 S HENDERSON RD,KING OF PRUSSIA,PA,19406,Montgomery
+GIANT #6513 - MAPLE GLEN,GIANT,1925 NORRISTOWN RD,MAPLE GLEN,PA,19002,Montgomery
+GIANT #6516 - KENNETT SQUARE,GIANT,830 E BALTIMORE PK,KENNETT SQUARE,PA,19348,Chester
+GIANT #6517 - LANGHORNE,GIANT,168 N FLOWERS MILL RD,LANGHORNE,PA,19047,Bucks
+GIANT #6518 - ROSLYN,GIANT,2350 SUSQUEHANNA RD,ROSLYN,PA,19001,Montgomery
+GIANT #6519 - CHALFONT,GIANT,4275 COUNT LINE RD,CHALFONT,PA,18914,Bucks
+GIANT #6522 - FLOURTOWN,GIANT,1874 BETHLEHEM PK,FLOURTOWN,PA,19031,Montgomery
+GIANT #6523 - BROOMALL,GIANT,2180 WEST CHESTER PIKE,BROOMALL,PA,19008,Delaware
+GIANT #6526 - NEWTOWN SQUARE,GIANT,4855 WEST CHESTER PIKE,NEWTOWN SQUARE,PA,19073,Delaware
+GIANT #6534 - BROOKHAVEN,GIANT,4930 EDGEMONT AVENUE,BROOKHAVEN,PA,19015,Delaware
+GIANT #6541 - FEASTERVILLE,GIANT,176 W. STREET ROAD,FEASTERVILLE,PA,19053,Bucks
+GIANT #6545 - WEST CHESTER,GIANT,1502 WEST CHESTER PIKE,WEST CHESTER,PA,19382,Chester
+GIANT #6547 - WARRINGTON,GIANT,1661 SOUTH EASTON ROAD,WARRINGTON,PA,18976,Bucks
+GIANT #6551 - PHILADELPHIA,GIANT,3401 CHESTNUT STREET,PHILADELPHIA,PA,19104,Philadelphia
+GIANT #6552 - PHILADELPHIA,GIANT,1004 N 2ND STREET,PHILADELPHIA,PA,19123,Philadelphia
+GIANT #6553 - PHILADELPHIA,GIANT,2303 BAINBRIDGE STREET,PHILADELPHIA,PA,19146,Philadelphia
+GIANT #6561 - PHILADELPHIA,GIANT,23RD & ARCH STREETS,PHILADELPHIA,PA,19103,Philadelphia
+GIANT #6569 - MARKET ST,GIANT,801 MARKET STREET,PHILADELPHIA,PA,19107,Philadelphia
+GIANT #6572 - W SWAMP RD,GIANT,4377 W SWAMP RD,DOYLESTOWN,PA,18901,Bucks
+GIANT #9227 - WILLOW GROVE,GIANT,315 YORK RD,WILLOW GROVE,PA,19090,Montgomery
+GIANT #9417 - POTTSTOWN,GIANT,86 GLOCKER WAY,POTTSTOWN,PA,19465,Chester
+Giant Food Store #6301 - THORNDALE,GIANT,3477 LINCOLN HIGHWAY,THORNDALE,PA,19372,Chester
+GIANT Food Stores,GIANT,539 N Oak Ave,Clifton Heights,PA,19018,Delaware
+GIANT Food Stores,GIANT,2721 Street Rd,Bensalem,PA,19020,Bucks
+GIANT Food Stores,GIANT,4930 Edgmont Ave,Brookhaven,PA,19015,Delaware
+GIANT Food Stores,GIANT,1874 Bethlehem Pike,Flourtown,PA,19031,Montgomery
+GIANT Food Stores,GIANT,141 Swedesford Rd,Exton,PA,19341,Chester
+GIANT Food Stores,GIANT,1540 Cowpath Rd,Hatfield,PA,19440,Montgomery
+GIANT Food Stores,GIANT,116 Township Line Rd,Havertown,PA,19083,Delaware
+GIANT Food Stores,GIANT,830 E Baltimore Pike,Kennett Square,PA,19348,Chester
+GIANT Food Stores,GIANT,300 E Baltimore Ave,Lansdowne,PA,19050,Delaware
+GIANT Food Stores,GIANT,4855 West Chester Pike,Newtown Square,PA,19073,Delaware
+GIANT Food Stores,GIANT,2550 Grant Ave,Philadelphia,PA,19114,Philadelphia
+GIANT Food Stores,GIANT,5858 Easton Rd,Doylestown,PA,18902,Bucks
+GIANT Food Stores,GIANT,901 S West End Blvd,Quakertown,PA,18951,Bucks
+GIANT Food Stores,GIANT,760 PA-113,Telford,PA,18969,Montgomery
+GIANT Food Stores,GIANT,466 2nd St Pike,Southampton,PA,18966,Bucks
+GIANT Food Stores,GIANT,721 W Sproul Rd,Springfield,PA,19064,Delaware
+GIANT Food Stores,GIANT,180 Upland Square Dr,Pottstown,PA,19464,Montgomery
+GIANT Food Stores,GIANT,3477 Lincoln Hwy,Thorndale,PA,19372,Chester
+GIANT Food Stores,GIANT,720d Street Rd,Warminster,PA,18974,Bucks
+GIANT Food Stores,GIANT,698 Downingtown Pike,West Chester,PA,19380,Chester
+GreatValu,GREATVALU,5406 Chester Ave,Philadelphia,PA,19143,Philadelphia
+GROCERY OUTLET,GROCERY OUTLET,1851 E Lincoln Hwy,Coatesville,PA,19320,Chester
+GROCERY OUTLET,GROCERY OUTLET,936 MacDade Boulevard,Woodlyn,PA,19094,Delaware
+GROCERY OUTLET,GROCERY OUTLET,70 NORTH WEST END BLVD,QUAKERTOWN,PA,18951,Bucks
+Grocery Outlet,GROCERY OUTLET,1023 W County Line Rd,Hatboro,PA,19040,Montgomery
+GROCERY OUTLET #13 - WDLYN,GROCERY OUTLET,1936 MACDADE BOULEVARD,WOODLYN,PA,19094,Delaware
+GROCERY OUTLET #718 - SHRN HILL,GROCERY OUTLET,1130 CHESTER PIKE,SHARON HILL,PA,19079,Delaware
+GROCERY OUTLET #727 - WARMINSTER,GROCERY OUTLET,1023 WEST COUNTY LINE ROAD,WARMINSTER,PA,18974,Bucks
+GROCERY OUTLET #728 - MT. AIRY,GROCERY OUTLET,25 W. HORTTER ST.,PHILADELPHIA,PA,19119,Philadelphia
+GROCERY OUTLET #8 - COATSVILLE,GROCERY OUTLET,1851 EAST LINCOLN HIGHWAY,COATESVILLE,PA,19320,Chester
+GROCERY OUTLET #814 - ABINGTON,GROCERY OUTLET,1851 EAST LINCOLN HIGHWAY,COATESVILLE,PA,19320,Chester
+GROCERY OUTLET #9 - ROYRSFRD,GROCERY OUTLET,301 NORTH LEWIS ROAD,ROYERSFORD,PA,19468,Montgomery
+Hennings Supermarket,HENNINGS SUPERMARKET,290 Main St,Harleysville,PA,19438,Montgomery
+House of Kosher,HOUSE OF KOSHER,9806 Bustleton Ave,Philadelphia,PA,19115,Philadelphia
+Incollingo's,INCOLLINGO'S,810 White Horse Pike,Egg Harbor City,NJ,08215,Atlantic
+Market Fresh Farm,MARKET FRESH FARM,1631 NJ-45,Mullica Hill,NJ,08062,Gloucester
+MAXIMUCKS FARM MARKET,MAXIMUCKS FARM MARKET,5793 Long Lane,Doylestown,PA,18902,Bucks
+McCAFFREY'S MKT-BLUE BELL,MCCAFFREY'S MKT,1301 W. SKIPPACK PIKE,BLUE BELL,PA,19422,Montgomery
+McCAFFREY'S MKT-DOYLESTOWN,MCCAFFREY'S MKT,200 WEST STATE STREET,DOYLESTOWN,PA,18901,Bucks
+McCAFFREY'S MKT-NEW HOPE,MCCAFFREY'S MKT,300 WEST BRIDGE STREET,NEW HOPE,PA,18938,Bucks
+McCAFFREY'S MKT-NEWTOWN,MCCAFFREY'S MKT,2890 S. EAGLE ROAD,NEWTOWN,PA,18940,Bucks
+McCAFFREY'S MKT-YARDLEY,MCCAFFREY'S MKT,635 HEACOCK ROAD,YARDLEY,PA,19047,Bucks
+MELVIN BEILER,MELVIN BEILER,19 Commerce St,Flemtington,NJ,19344,Chester
+MILLER'S TWIST,MILLER'S TWIST,READING TERMINAL MARKET,Philadelphia,PA,19107,Philadelphia
+NET COST #4,NET COST,11701 BUSTLETON AVENUE,PHILADELPHIA,PA,19116,Philadelphia
+NET COST MARKET-BLUE GRASS,NET COST MARKET,2417 WELSH ROAD,PHILADELPHIA,PA,19114,Philadelphia
+New Egypt Market Place,NEW EGYPT MARKET PLACE,53 Main St,New Egypt,NJ,08533,Ocean
+NEWTOWN FARMER'S MARKET - SUNNY MEADOW FARMS,NEWTOWN FARMER'S MARKET,2150 S Eagle Rd,Newtown,PA,18940,Bucks
+NORTHBROOK MARKETPLACE,NORTHBROOK MARKETPLACE,1805 UNIONVILLE AND WAWASET RD.,WEST CHESTER,PA,19382,Chester
+NPGS II,NPGS II,231 Main St,Lakewood,NJ,08701,Ocean
+NPGS II,NPGS II,2080 W County Line Rd,Jackson,NJ,08527,Ocean
+NPGS II,NPGS II,152 James St,Lakewood,NJ,08701,Ocean
+Penn Jersey Marketplace,PENN JERSEY MARKETPLACE,3899 Aramingo Ave,Philadelphia,PA,19137,Philadelphia
+Penn Jersey Marketplace,PENN JERSEY MARKETPLACE,537 Adams Ave,Philadelphia,PA,19120,Philadelphia
+Penn Jersey Marketplace,PENN JERSEY MARKETPLACE,8960 Frankford Ave,Philadelphia,PA,19136,Philadelphia
+Petrovsky’s Market,PETROVSKY’S MARKET,9808 Bustleton Ave,Philadelphia,PA,19115,Philadelphia
+PJP MARKETPLACE-ADAMS AVE,PJP MARKETPLACE,537 ADAMS AVE.,PHILADELPHIA,PA,19120,Philadelphia
+PJP MARKETPLACE-ARAMINGO,PJP MARKETPLACE,3889 ARAMINGO AVE.,PHILADELPHIA,PA,19137,Philadelphia
+PJP MARKETPLACE-FRANKFORD AVE,PJP MARKETPLACE,8914 FRANKFORD AVE.,PHILADELPHIA,PA,19136,Philadelphia
+Price Right,PRICE RIGHT,923 Providence Rd,Secane,PA,19018,Delaware
+RASTELLI MARKET FRESH-MRLTN,RASTELLI MARKET FRESH,710 ROUTE 73 SOUTH,MARLTON,NJ,08053,Burlington
+REDNER'S MARKET #10 (OXFORD),REDNER'S MARKET,459 North 3rd Street,Oxford,PA,19363,Chester
+REDNER'S MARKET #36 (POTTSTWN),REDNER'S MARKET,1300 CHARLOTTE ST.,POTTSTOWN,PA,19464,Montgomery
+Restaurant Depot - Jetro,RESTAURANT DEPOT,700 Pattison Ave,Philadelphia,PA,19148,Philadelphia
+Restaurant Depot - Jetro,RESTAURANT DEPOT,2950 Roberts Ave,Philadelphia,PA,19129,Philadelphia
+Restaurant Depot - Jetro,RESTAURANT DEPOT,1661 Lincoln Hwy,Langhorne,PA,19047,Bucks
+Restaurant Depot - Jetro,RESTAURANT DEPOT,1070 Thomas Busch Memorial Hwy,Pennsauken Township,NJ,08110,Camden
+Sam's Italian Market,SAM'S ITALIAN MARKET,3504 Moreland Road,Willow Grove,PA,19090,Montgomery
+Sara's Subs and Salad,SARA'S SUBS AND SALAD,Columbus Market,Columbus,NJ,08022,Burlington
+Selecto Market,SELECTO MARKET,320 Pond St,Bristol,PA,19007,Bucks
+Shoprite,SHOPRITE,6301 Oxford Ave,Philadelphia,PA,19111,Philadelphia
+Shoprite,SHOPRITE,1603 Big Oak Rd,Morrisville,PA,19067,Bucks
+Shoprite,SHOPRITE,330 W Oregon Ave,Philadelphia,PA,19148,Philadelphia
+Shoprite,SHOPRITE,1568 Chester Pike,Eddystone,PA,19022,Delaware
+Shoprite,SHOPRITE,1000 Easton Rd,Wyncote,PA,19095,Montgomery
+Shoprite,SHOPRITE,1575 N 52nd St #400,Philadelphia,PA,19131,Philadelphia
+Shoprite,SHOPRITE,S 24th St & W Oregon Ave,Philadelphia,PA,19145,Philadelphia
+Shoprite,SHOPRITE,2946 Island Ave,Philadelphia,PA,19153,Philadelphia
+Shoprite,SHOPRITE,55 E Germantown Pike,East Norriton,PA,19401,Montgomery
+Shoprite,SHOPRITE,2471 W Cheltenham Ave,Wyncote,PA,19095,Montgomery
+Shoprite,SHOPRITE,547 S Oxford Valley Rd,Fairless Hills,PA,19030,Bucks
+Shoprite,SHOPRITE,2200 Bristol Rd,Bensalem,PA,19020,Bucks
+Shoprite,SHOPRITE,2800 Fox St,Philadelphia,PA,19129,Philadelphia
+Shoprite,SHOPRITE,3745 Aramingo Ave,Philadelphia,PA,19137,Philadelphia
+Shoprite,SHOPRITE,942 W St Rd,Feasterville-Trevose,PA,19053,Bucks
+Shoprite,SHOPRITE,4001 Walnut St,Philadelphia,PA,19104,Philadelphia
+Shoprite,SHOPRITE,5597 Tulip St #99,Philadelphia,PA,19124,Philadelphia
+Shoprite,SHOPRITE,9910 Frankford Ave,Philadelphia,PA,19114,Philadelphia
+Shoprite,SHOPRITE,140 N MacDade Blvd,Glenolden,PA,19036,Delaware
+Shoprite,SHOPRITE,1837 Street Rd,Bensalem,PA,19020,Bucks
+Shoprite,SHOPRITE,3725 Frankford Ave,Philadelphia,PA,19124,Philadelphia
+Shoprite,SHOPRITE,US-130 & Browning Ln,Brooklawn,NJ,08031,Camden
+Shoprite,SHOPRITE,401 Harmony Rd,Gibbstown,NJ,08027,Gloucester
+Shoprite,SHOPRITE,Gordon Ave & S Black Horse Pike,Monroe Township,NJ,08094,Gloucester
+Shoprite,SHOPRITE,1200 Chews Landing Rd,Clementon,NJ,08021,Camden
+Shoprite,SHOPRITE,542 Berlin - Cross Keys Rd,Sicklerville,NJ,08081,Camden
+Shoprite,SHOPRITE,127 Ark Rd,Mt Laurel Township,NJ,08054,Burlington
+Shoprite,SHOPRITE,1520 NJ-38,Hainesport,NJ,08036,Burlington
+Shoprite,SHOPRITE,1310 Fairview Blvd,Delran,NJ,08075,Burlington
+Shoprite,SHOPRITE,141 US-130,Cinnaminson,NJ,08077,Burlington
+Shoprite,SHOPRITE,6901 Ridge Ave,Philadelphia,PA,19128,Philadelphia
+Shoprite,SHOPRITE,307 W Rte 70,Marlton,NJ,08053,Burlington
+Shoprite,SHOPRITE,892 Union Mill Rd,Mt Laurel Township,NJ,08054,Burlington
+Shoprite,SHOPRITE,400 E Evesham Rd,Cherry Hill,NJ,08003,Camden
+Shoprite,SHOPRITE,NJ-73 & Minck Ave,West Berlin,NJ,08091,Camden
+Shoprite,SHOPRITE,130 N White Horse Pike,Lawnside,NJ,08045,Camden
+Shoprite,SHOPRITE,1010 E Olney Ave,Philadelphia,PA,19120,Philadelphia
+Shoprite,SHOPRITE,1225 Blackwood Clementon Rd,Clementon,NJ,08021,Camden
+Shoprite,SHOPRITE,280 NJ-70,Medford,NJ,08055,Burlington
+Shoprite,SHOPRITE,143 Bridgeton Pike,Mullica Hill,NJ,08062,Gloucester
+Shoprite,SHOPRITE,201 William Dalton Dr,Glassboro,NJ,08028,Gloucester
+Shoprite,SHOPRITE,11000 Roosevelt Blvd,Philadelphia,PA,19116,Philadelphia
+Shoprite,SHOPRITE,2881 Mt Ephraim Ave,Camden,NJ,08104,Camden
+Shoprite,SHOPRITE,2240 NJ-70,Cherry Hill,NJ,08002,Camden
+Shoprite,SHOPRITE,1817 Mt Holly Rd,Burlington,NJ,08016,Burlington
+Shoprite,SHOPRITE,1000 Nixon Dr,Mt Laurel Township,NJ,08054,Burlington
+Shoprite,SHOPRITE,170 Forty Foot Rd,Hatfield,PA,19440,Montgomery
+Shoprite,SHOPRITE,401 S Pitney Rd,Galloway,NJ,08205,Atlantic
+Shoprite,SHOPRITE,3003 English Creek Ave,Egg Harbor Township,NJ,08234,Atlantic
+Shoprite,SHOPRITE,2 NJ-37,Toms River,NJ,08753,Ocean
+Shoprite,SHOPRITE,U.S. 9 & Bethel Rd,Somers Point,NJ,08244,Atlantic
+Shoprite,SHOPRITE,382 Egg Harbor Rd,Sewell,NJ,08080,Gloucester
+Shoprite,SHOPRITE,616 White Horse Pike,Absecon,NJ,08201,Atlantic
+Shoprite,SHOPRITE,668 NJ-70,Brick Township,NJ,08723,Ocean
+Shoprite,SHOPRITE,80 S White Horse Pike,Hammonton,NJ,08037,Atlantic
+Shoprite,SHOPRITE,1700 NJ-47,Rio Grande,NJ,08242,Cape May
+Shoprite,SHOPRITE,NJ-45 & Parkville Station Rd,West Deptford,NJ,08051,Gloucester
+Shoprite,SHOPRITE,U.S. 9 & 1st St,Lacey Township,NJ,08734,Ocean
+Shoprite,SHOPRITE,860 Fischer Blvd,Toms River,NJ,08753,Ocean
+Shoprite,SHOPRITE,1001 NJ-70,Manchester Township,NJ,08759,Ocean
+Shoprite,SHOPRITE,260 N County Line Rd,Jackson Township,NJ,08527,Ocean
+Shoprite,SHOPRITE,431 Atlantic City Blvd,Bayville,NJ,08721,Ocean
+Shoprite,SHOPRITE,501 U.S. 9 #100,Waretown,NJ,08758,Ocean
+SOLLY FARM,SOLLY FARM,707 Almshouse Road,Warminster,PA,18974,Bucks
+SPRINGDALE FARM MARKET,SPRINGDALE FARM MARKET,1638 SPRINGDALE,CHERRY HILL,NJ,08003,Camden
+STOLTZFUS BAKED GOODS,STOLTZFUS BAKED GOODS,109 Rte 70,Evesham Township,NJ,08053,Burlington
+STOLTZFUS BAKED GOODS,STOLTZFUS BAKED GOODS,109 ROUTE 70,MEDFORD,NJ,08055,Burlington
+"STOLTZFUS CHEESE AND DELI, LLC.","STOLTZFUS CHEESE AND DELI, LLC.",1165 WILMINGTON PIKE,WEST CHESTER,PA,19382,Chester
+STONY HILL DELI,STONY HILL DELI,701 N Black Horse Pike,Williamstown,PA,08094,Gloucester
+STYER ORCHARD INC,STYER ORCHARD INC,97 STYER LANE,LANGHORNE,PA,19047,Bucks
+The Esh's Pretzel Place,THE ESH'S PRETZEL PLACE,Esh Route 3-49,Medford,New Jersey,08055,Burlington
+The Full Cart,THE FULL CART,1362 Naamans Creek Road,Garnet Valley,PA,19060,Delaware
+The Richmond Shops IGA,THE RICHMOND SHOPS IGA,2497 Aramingo Ave,Philadelphia,PA,19125,Philadelphia
+TRAUGER'S FARM MARKET,TRAUGER'S FARM MARKET,370 Island Road,Kintnersville,PA,18930,Bucks
+Trauger's Farm Market,TRAUGER'S FARM MARKET,370 Island Rd,Kintnersville,PA,18930,Bucks
+Uptown Entertainment (Petrovsky Mkt),UPTOWN ENTERTAINMENT,"9808 Bustletown Avenue, Unit L",Philadelphia,PA,19115,Philadelphia
+Wawa,WAWA,1439 Market St,Linwood,PA,19061,Delaware
+Wawa,WAWA,2050 Sproul Rd,Broomall,PA,19008,Delaware
+Wawa,WAWA,502 S Oak Ave,Clifton Heights,PA,19018,Delaware
+Wawa,WAWA,460 S 69th St,Upper Darby,PA,19082,Delaware
+Wawa,WAWA,525 Burmont Rd,Drexel Hill,PA,19026,Delaware
+Wawa,WAWA,202 S State Rd,Upper Darby,PA,19082,Delaware
+Wawa,WAWA,1601 Bethlehem Pike,Flourtown,PA,19031,Montgomery
+Wawa,WAWA,934 Chester Pike,Prospect Park,PA,19076,Delaware
+Wawa,WAWA,2 E Rhodes Ave,West Chester,PA,19382,Chester
+Wawa,WAWA,2300 Chichester Ave,Boothwyn,PA,19061,Delaware
+Wawa,WAWA,505 W Cypress St,Kennett Square,PA,19348,Chester
+Wawa,WAWA,510 Fairview Rd,Woodlyn,PA,19094,Delaware
+Wawa,WAWA,676 Rosewood Ave,Feasterville-Trevose,PA,19053,Bucks
+Wawa,WAWA,193 Belmont Ave,Bala Cynwyd,PA,19004,Montgomery
+Wawa,WAWA,196 S Gulph Rd,King of Prussia,PA,19406,Montgomery
+Wawa,WAWA,740 N Bethlehem Pike,Lower Gwynedd Township,PA,19002,Montgomery
+Wawa,WAWA,1549 Bristol Pike,Bensalem,PA,19020,Bucks
+Wawa,WAWA,33-35 E Eagle Rd,Havertown,PA,19083,Delaware
+Wawa,WAWA,3604 Chestnut St,Philadelphia,PA,19104,Philadelphia
+Wawa,WAWA,339 S Main St,Doylestown,PA,18901,Bucks
+Wawa,WAWA,52 W Lancaster Ave,Paoli,PA,19301,Chester
+Wawa,WAWA,44 S Main St,Yardley,PA,19067,Bucks
+Wawa,WAWA,6016 Bristol Emilie Rd,Levittown,PA,19057,Bucks
+Wawa,WAWA,195 W Lancaster Ave,Ardmore,PA,19003,Delaware
+Wawa,WAWA,1726 Butler Pike,Conshohocken,PA,19428,Montgomery
+Wawa,WAWA,1528 Trenton Rd,Langhorne,PA,19047,Bucks
+Wawa,WAWA,67 N Lansdowne Ave,Lansdowne,PA,19050,Delaware
+Wawa,WAWA,2401 Susquehanna Rd,Abington,PA,19001,Montgomery
+Wawa,WAWA,3328 Bristol Rd,Cornwells Heights,PA,19020,Bucks
+Wawa,WAWA,1401 Forty Foot Rd,Lansdale,PA,19446,Montgomery
+Wawa,WAWA,1195 Pottstown Pike,West Chester,PA,19380,Chester
+Wawa,WAWA,801 Cottman Ave,Philadelphia,PA,19111,Philadelphia
+Wawa,WAWA,750 Pottstown Pike,Exton,PA,19341,Chester
+Wawa,WAWA,1707 Arch St,Philadelphia,PA,19103,Philadelphia
+Wawa,WAWA,PA-352 & Paoli Pike,East Goshen Township,PA,19380,Chester
+Wawa,WAWA,708 E Walnut St,North Wales,PA,19454,Montgomery
+Wawa,WAWA,406 Germantown Pike,Lafayette Hill,PA,19444,Montgomery
+Wawa,WAWA,100 E Baltimore Ave,Media,PA,19063,Delaware
+Wawa,WAWA,912 Walnut St,Philadelphia,PA,19107,Philadelphia
+Wawa,WAWA,370 N Main St,Souderton,PA,18964,Montgomery
+Wawa,WAWA,9456 State Rd,Philadelphia,PA,19114,Philadelphia
+Wawa,WAWA,88 Limekiln Pike,Glenside,PA,19038,Montgomery
+Wawa,WAWA,6460 Bustleton Ave,Philadelphia,PA,19149,Philadelphia
+Wawa,WAWA,1083 E Lancaster Ave,Downingtown,PA,19335,Chester
+Wawa,WAWA,3222-48 Richmond St,Philadelphia,PA,19134,Philadelphia
+Wawa,WAWA,7236 Germantown Ave,Philadelphia,PA,19119,Philadelphia
+Wawa,WAWA,236 Holland Rd,Holland,PA,18966,Bucks
+Wawa,WAWA,1906 Swamp Pike,Gilbertsville,PA,19525,Montgomery
+Wawa,WAWA,1860 E Ridge Pike,Royersford,PA,19468,Montgomery
+Wawa,WAWA,1244 Bristol Pike,Bensalem,PA,19020,Bucks
+Wawa,WAWA,4121 W Skippack Pike,Schwenksville,PA,19473,Montgomery
+Wawa,WAWA,260 W Schuylkill Rd,Pottstown,PA,19465,Chester
+Wawa,WAWA,1139 Horsham Rd,Ambler,PA,19002,Montgomery
+Wawa,WAWA,10 Davisville Rd,Warminster,PA,18974,Bucks
+Wawa,WAWA,195 Saxer Ave,Springfield,PA,19064,Delaware
+Wawa,WAWA,PA-23 & Rock Hill Rd,Bala Cynwyd,PA,19004,Montgomery
+Wawa,WAWA,106 N Bethlehem Pike,Fort Washington,PA,19034,Montgomery
+Wawa,WAWA,761 Gap Newport Pike,Avondale,PA,19311,Chester
+Wawa,WAWA,2040 Hamilton St,Philadelphia,PA,19130,Philadelphia
+Wawa,WAWA,4662 Bensalem Blvd,Bensalem,PA,19020,Bucks
+Wawa,WAWA,201 S Bryn Mawr Ave,Bryn Mawr,PA,19010,Delaware
+Wawa,WAWA,721 Naamans Creek Rd,Chadds Ford,PA,19317,Chester
+Wawa,WAWA,3 N MacDade Blvd,Glenolden,PA,19036,Delaware
+Wawa,WAWA,21 Kedron Ave,Morton,PA,19070,Delaware
+Wawa,WAWA,3744 Spruce St,Philadelphia,PA,19104,Philadelphia
+Wawa,WAWA,8152 Castor Ave,Philadelphia,PA,19152,Philadelphia
+Wawa,WAWA,6935 Castor Ave,Philadelphia,PA,19149,Philadelphia
+Wawa,WAWA,5220 New Falls Rd,Levittown,PA,19056,Bucks
+Wawa,WAWA,341 W Bridge St,New Hope,PA,18938,Bucks
+Wawa,WAWA,1602 S Delaware Ave,Philadelphia,PA,19148,Philadelphia
+Wawa,WAWA,6001 Harbison Ave,Philadelphia,PA,19135,Philadelphia
+Wawa,WAWA,200 Green Ln,Bristol,PA,19007,Bucks
+Wawa,WAWA,970 Baltimore Pike,Glen Mills,PA,19342,Delaware
+Wawa,WAWA,545 W Butler Ave,Chalfont,PA,18914,Bucks
+Wawa,WAWA,1800 Ticonderoga Blvd,Chester Springs,PA,19425,Chester
+Wawa,WAWA,10 Boot Rd,West Chester,PA,19380,Chester
+Wawa,WAWA,50 N York Rd,Hatboro,PA,19040,Montgomery
+Wawa,WAWA,5 Matthews Rd,Malvern,PA,19355,Chester
+Wawa,WAWA,1300 E Erie Ave,Philadelphia,PA,19124,Philadelphia
+Wawa,WAWA,567 Lancaster Ave,Malvern,PA,19355,Chester
+Wawa,WAWA,9201 Frankford Ave,Philadelphia,PA,19114,Philadelphia
+Wawa,WAWA,3800 Garrett Rd,Drexel Hill,PA,19026,Delaware
+Wawa,WAWA,4713 York Rd,Buckingham,PA,18912,Bucks
+Wawa,WAWA,112 W 4th St,Bridgeport,PA,19405,Montgomery
+Wawa,WAWA,3260 New Rodgers Rd,Bristol,PA,19007,Bucks
+Wawa,WAWA,550 Easton Rd,Warrington,PA,18976,Bucks
+Wawa,WAWA,981 N Wales Rd,North Wales,PA,19454,Montgomery
+Wawa,WAWA,1920 W MacDade Blvd,Woodlyn,PA,19094,Delaware
+Wawa,WAWA,100 Wallace Ave,Downingtown,PA,19335,Chester
+Wawa,WAWA,14101 Bustleton Pike,Philadelphia,PA,19116,Philadelphia
+Wawa,WAWA,817 Lincoln Ave,Prospect Park,PA,19076,Delaware
+Wawa,WAWA,105 W King St,Malvern,PA,19355,Chester
+Wawa,WAWA,2306 MacDade Boulevard,Holmes,PA,19043,Delaware
+Wawa,WAWA,450610 Castor Ave,Philadelphia,PA,19124,Philadelphia
+Wawa,WAWA,373 Main St,Lower Salford Township,PA,19438,Montgomery
+Wawa,WAWA,100 Boot Rd,Downingtown,PA,19335,Chester
+Wawa,WAWA,518-520 S 2nd St,Philadelphia,PA,19147,Philadelphia
+Wawa,WAWA,4371 Richmond St,Philadelphia,PA,19137,Philadelphia
+Wawa,WAWA,100 Crawford Ave,Conshohocken,PA,19428,Montgomery
+Wawa,WAWA,600 Gov Printz Blvd,Philadelphia,PA,19113,Delaware
+Wawa,WAWA,215 W Lancaster Ave,Wayne,PA,19087,Chester
+Wawa,WAWA,3380 Schuylkill Rd,Spring City,PA,19475,Chester
+Wawa,WAWA,7715 Frankford Ave,Philadelphia,PA,19136,Philadelphia
+Wawa,WAWA,3711 W Lincoln Hwy,Parkesburg,PA,19365,Chester
+Wawa,WAWA,1000 Darby Rd,Havertown,PA,19083,Delaware
+Wawa,WAWA,1883 Street Rd,Bensalem,PA,19020,Bucks
+Wawa,WAWA,36 Baltimore Pike,Glen Mills,PA,19342,Delaware
+Wawa,WAWA,535 Horsham Rd,Horsham,PA,19044,Montgomery
+Wawa,WAWA,1095 S West End Blvd,Quakertown,PA,18951,Bucks
+Wawa,WAWA,1601 S Valley Forge Rd,Lansdale,PA,19446,Montgomery
+Wawa,WAWA,7913-29 Oxford Ave,Philadelphia,PA,19111,Philadelphia
+Wawa,WAWA,2250 Lincoln Ave,Feasterville-Trevose,PA,19053,Bucks
+Wawa,WAWA,706 E Gay St,West Chester,PA,19380,Chester
+Wawa,WAWA,3 Big Rd,Zieglerville,PA,19492,Montgomery
+Wawa,WAWA,934 Main St,Royersford,PA,19468,Montgomery
+Wawa,WAWA,1510 Easton Rd,Willow Grove,PA,19090,Montgomery
+Wawa,WAWA,5854 Easton Rd,Pipersville,PA,18947,Bucks
+Wawa,WAWA,100 Ponds Edge Dr,Nottingham,PA,19362,Chester
+Wawa,WAWA,151 Sugartown Rd,Strafford,PA,19087,Chester
+Wawa,WAWA,701 W Germantown Pike,Eagleville,PA,19403,Montgomery
+Wawa,WAWA,19 N Bishop Ave,Clifton Heights,PA,19018,Delaware
+Wawa,WAWA,949 Montgomery Ave,Penn Valley,PA,19072,Montgomery
+Wawa,WAWA,1417 S Hanover St,Pottstown,PA,19465,Chester
+Wawa,WAWA,1413 Wilmington Pike,West Chester,PA,19382,Chester
+Wawa,WAWA,3800 Landis Ave,Sea Isle City,NJ,08243,Cape May
+Wawa,WAWA,9 Bennetts Mills Rd,Jackson Township,NJ,08527,Ocean
+Wawa,WAWA,1680 Lakewood Rd,Toms River,NJ,08755,Ocean
+Wawa,WAWA,1 N White Horse Pike,Hammonton,NJ,08037,Atlantic
+Wawa,WAWA,9404 3rd Ave,Stone Harbor,NJ,08247,Cape May
+Wawa,WAWA,3763 Church Rd,Mt Laurel Township,NJ,08054,Burlington
+Wawa,WAWA,210 Georgetown Wrightstown Rd,Wrightstown,NJ,08562,Burlington
+Wawa,WAWA,1536 Hurffville Rd,Woodbury,NJ,08096,Gloucester
+Wawa,WAWA,1301 NJ-38,Hainesport,NJ,08036,Burlington
+Wawa,WAWA,10 Manhattan St,Jackson Township,NJ,08527,Ocean
+Wawa,WAWA,668 Haddon Ave,Collingswood,NJ,08108,Camden
+Wawa,WAWA,199 Medford Mt Holly Rd,Medford,NJ,08055,Burlington
+Wawa,WAWA,101 Warwick Rd,Magnolia,NJ,08049,Camden
+Wawa,WAWA,701 Woodbury Glassboro Rd,Sewell,NJ,08080,Gloucester
+Wawa,WAWA,917 Erial Rd,Pine Hill,NJ,08021,Camden
+Wawa,WAWA,798 Woodlane Rd,Westampton,NJ,08060,Burlington
+Wawa,WAWA,270 E Greentree Rd,Evesham Township,NJ,08053,Burlington
+Wawa,WAWA,1201 N Green St,Little Egg Harbor Township,NJ,08087,Ocean
+Wawa,WAWA,100 Springdale Rd,Cherry Hill,NJ,08003,Camden
+Wawa,WAWA,2075 Route 206,Vincentown,NJ,08088,Burlington
+Wawa,WAWA,672 Berlin - Cross Keys Rd,Sicklerville,NJ,08081,Camden
+Wawa,WAWA,882 Glassboro Rd,Williamstown,NJ,08094,Gloucester
+Wawa,WAWA,731 S Harding Hwy,Buena,NJ,08310,Atlantic
+Wawa,WAWA,1814 Salem Rd,Burlington,NJ,08016,Burlington
+Wawa,WAWA,100 12th St,Hammonton,NJ,08037,Atlantic
+Wawa,WAWA,2835 Route 206,Columbus,NJ,08022,Burlington
+Wawa,WAWA,4 NJ-72,Vincentown,NJ,08088,Burlington
+Wawa,WAWA,400 NJ-73,Berlin Township,NJ,08091,Camden
+Wawa,WAWA,2 Somerdale Rd,Blackwood,NJ,08012,Camden
+Wawa,WAWA,464 Creek Rd,Bellmawr,NJ,08031,Camden
+Wawa,WAWA,400 Bridgeton Pike,Mantua Township,NJ,08051,Gloucester
+Wawa,WAWA,6 Lanes Mill Rd,Brick Township,NJ,08724,Ocean
+Wawa,WAWA,400 Sicklerville Rd,Sicklerville,NJ,08081,Camden
+Wawa,WAWA,491 NJ-73,Marlton,NJ,08053,Burlington
+Wawa,WAWA,590 N Evergreen Ave,Woodbury,NJ,08096,Gloucester
+Wawa,WAWA,254 NJ-37,Toms River,NJ,08755,Ocean
+Wawa,WAWA,2701 Ocean Dr,Avalon,NJ,08202,Cape May
+Wawa,WAWA,502 Shore Rd,Somers Point,NJ,08244,Atlantic
+Wawa,WAWA,336 S Pitney Rd,Galloway,NJ,08205,Atlantic
+Wawa,WAWA,500 N Main St,Barnegat,NJ,08005,Ocean
+Wawa,WAWA,2515 NJ-47,Franklinville,NJ,08322,Gloucester
+Wawa,WAWA,1426 Texas Ave,Cape May,NJ,08204,Cape May
+Wawa,WAWA,2999 E Evesham Rd,Voorhees Township,NJ,08043,Camden
+Wawa,WAWA,436 Oakshade Rd,Shamong,NJ,08088,Burlington
+Wawa,WAWA,600 Cinnaminson Ave,Palmyra,NJ,08065,Burlington
+Wawa,WAWA,102 New Rd,Somers Point,NJ,08244,Atlantic
+Wawa,WAWA,N Rte 9,Upper Township,NJ,08230,Cape May
+Wawa,WAWA,1 Haddon Ave,Haddon Township,NJ,08108,Camden
+Wawa,WAWA,121 Main St,Cape May Court House,NJ,08210,Cape May
+Wawa,WAWA,907 White Horse Pike,Absecon,NJ,08201,Atlantic
+Wawa,WAWA,800 White Horse Pike,Oaklyn,NJ,08107,Camden
+Wawa,WAWA,196 Crown Point Rd,Thorofare,NJ,08086,Gloucester
+Wawa,WAWA,8 S New York Rd,Absecon,NJ,08205,Atlantic
+Wawa,WAWA,813 W Brigantine Ave,Brigantine,NJ,08203,Atlantic
+Wawa,WAWA,450 NJ-47,Malaga,NJ,08328,Gloucester
+Wawa,WAWA,224 S Main St,Cape May Court House,NJ,08210,Cape May
+Wawa,WAWA,71 Lakeview Dr S,Gibbsboro,NJ,08026,Camden
+Wawa,WAWA,214 N White Horse Pike,Hammonton,NJ,08037,Atlantic
+Wawa,WAWA,20 E Main St,Tuckerton,NJ,08087,Ocean
+Wawa,WAWA,388 Greentree Rd,Sewell,NJ,08080,Gloucester
+Wawa,WAWA,902 Central Ave,Ship Bottom,NJ,08008,Ocean
+Wawa,WAWA,2403 New Rd,Northfield,NJ,08225,Atlantic
+Wawa,WAWA,3932 Brigantine Blvd,Brigantine,NJ,08203,Atlantic
+Wawa,WAWA,7 E Black Horse Pike,Williamstown,NJ,08094,Gloucester
+Wawa,WAWA,720 S Church St,Mt Laurel Township,NJ,08054,Burlington
+Wawa,WAWA,332 S Black Horse Pike,Williamstown,NJ,08094,Gloucester
+Wawa,WAWA,236 E Main St,Moorestown,NJ,08057,Burlington
+Wawa,WAWA,1250 West Ave,Ocean City,NJ,08226,Cape May
+Wawa,WAWA,418 W Rio Grande Ave,Wildwood,NJ,08260,Cape May
+Wawa,WAWA,320 S White Horse Pike,Audubon,NJ,08106,Camden
+Wawa,WAWA,1110 NJ-70,Cherry Hill,NJ,08034,Camden
+Wawa,WAWA,383 Drum Point Rd,Brick Township,NJ,08723,Ocean
+Wawa,WAWA,611 New Jersey Ave,Absecon,NJ,08201,Atlantic
+Wawa,WAWA,55 N Forklanding Rd,Maple Shade Township,NJ,08052,Burlington
+Wawa,WAWA,605 E County Line Rd,Lakewood,NJ,08701,Ocean
+Wawa,WAWA,1400 NJ-72,Stafford Township,NJ,08050,Ocean
+Wawa,WAWA,7 Juliustown Rd,Browns Mills,NJ,08015,Burlington
+Wawa,WAWA,211 Tuckerton Rd,Medford,NJ,08055,Burlington
+Wawa,WAWA,300 NJ-50,Mays Landing,NJ,08330,Atlantic
+Wawa,WAWA,5212 Ventnor Ave,Ventnor City,NJ,08406,Atlantic
+Wawa,WAWA,30 S Shore Rd,Marmora,NJ,08223,Cape May
+Wawa,WAWA,1600 NJ-37,Toms River,NJ,08757,Ocean
+Wawa,WAWA,1700 S Burnt Mill Rd,Voorhees Township,NJ,08043,Camden
+Wawa,WAWA,110 34th St,Ocean City,NJ,08226,Cape May
+Wawa,WAWA,1413 S Black Horse Pike,Williamstown,NJ,08094,Gloucester
+Wawa,WAWA,1317 Market St,Gloucester City,NJ,08030,Camden
+Wawa,WAWA,1080 Delsea Dr,Westville,NJ,08093,Gloucester
+Wawa,WAWA,464 Hurffville - Cross Keys Rd,Sewell,NJ,08080,Gloucester
+Wawa,WAWA,701 N Main St,Lanoka Harbor,NJ,08734,Ocean
+Wawa,WAWA,1 New Egypt Cookstown Rd,New Egypt,NJ,08533,Ocean
+Wawa,WAWA,257 NJ-70,Medford,NJ,08055,Burlington
+Wawa,WAWA,1076 US-206,Bordentown,NJ,08505,Burlington
+Wawa,WAWA,2422-28 Tilton Rd,Egg Harbor Township,NJ,08234,Atlantic
+Wawa,WAWA,2060 US-130,Burlington,NJ,08016,Burlington
+Wawa,WAWA,595 Brick Blvd,Brick Township,NJ,08723,Ocean
+Wawa,WAWA,5201 Harding Hwy,Mays Landing,NJ,08330,Atlantic
+Wawa,WAWA,94 NJ-70,Toms River,NJ,08755,Ocean
+Wawa,WAWA,220 U.S. 9,Bayville,NJ,08721,Ocean
+Wawa,WAWA,825 N Black Horse Pike,Runnemede,NJ,08078,Camden
+Wawa,WAWA,1120 E Veterans Hwy,Jackson Township,NJ,08527,Ocean
+Wawa,WAWA,470 N Main St,Manahawkin,NJ,08050,Ocean
+Wawa,WAWA,716 White Horse Pike,Absecon,NJ,08201,Atlantic
+Wawa,WAWA,1725 Hooper Ave,Toms River,NJ,08753,Ocean
+Wawa,WAWA,1166 Fischer Blvd,Toms River,NJ,08753,Ocean
+Wawa,WAWA,4262 E Black Horse Pike,Mays Landing,NJ,08330,Atlantic
+Wawa,WAWA,2003 Mt Holly Rd,Burlington,NJ,08016,Burlington
+Wawa,WAWA,3601 Rte 9 S,Rio Grande,NJ,08242,Cape May
+Wawa,WAWA,6678 E Black Horse Pike,Egg Harbor Township,NJ,08234,Atlantic
+Wawa,WAWA,1180 NJ-70,Whiting,NJ,08759,Ocean
+Wawa,WAWA,3485 NJ-35,Lavallette,NJ,08735,Ocean
+Wawa,WAWA,9300 Ventnor Ave,Margate City,NJ,08402,Atlantic
+Wawa,WAWA,856 Mantua Pike,Woodbury Heights,NJ,08097,Gloucester
+Wawa,WAWA,1505 NJ-73,Pennsauken Township,NJ,08110,Camden
+Wawa,WAWA,2302 NJ-37,Toms River,NJ,08753,Ocean
+Wawa,WAWA,3200 New Jersey Ave,Wildwood,NJ,08260,Cape May
+Wawa,WAWA,409 NJ-73,Berlin,NJ,08009,Camden
+Wawa,WAWA,1522 NJ-38,Lumberton,NJ,08048,Burlington
+Wawa,WAWA,444 S Main St,Forked River,NJ,08731,Ocean
+Wawa,WAWA,4167 US-130,Beverly,NJ,08010,Burlington
+Wawa,WAWA,1115 NJ-73,Mt Laurel Township,NJ,08054,Burlington
+Wawa,WAWA,1700 Center Square Rd,Swedesboro,NJ,08085,Gloucester
+Wawa,WAWA,1515 Bayshore Rd,Villas,NJ,08251,Cape May
+Wawa,WAWA,5221 W Rte 70,Pennsauken Township,NJ,08109,Camden
+Wawa,WAWA,1301 Little Gloucester Rd,Blackwood,NJ,08012,Camden
+Wawa,WAWA,719 5th Ave,Galloway,NJ,08205,Atlantic
+Wawa,WAWA,5100 English Creek Ave,Egg Harbor Township,NJ,08234,Atlantic
+Wawa,WAWA,513 W Delilah Rd,Pleasantville,NJ,08232,Atlantic
+Wawa,WAWA,602 E Black Horse Pike,Mt Ephraim,NJ,08059,Camden
+Wawa,WAWA,421 S White Horse Pike,Lindenwold,NJ,08021,Camden
+Wawa,WAWA,123 Paulsboro Rd,Woolwich Township,NJ,08085,Gloucester
+Wawa,WAWA,4231 NJ-42,Blackwood,NJ,08012,Camden
+Wawa,WAWA,13115 Long Beach Blvd,Long Beach Township,NJ,08008,Ocean
+Wawa,WAWA,195 Mathistown Rd,Little Egg Harbor Township,NJ,08087,Ocean
+Wawa,WAWA,633 County Rd 539,New Egypt,NJ,08533,Ocean
+Wawa,WAWA,3719 Bayshore Rd,Cape May,NJ,08204,Cape May
+Wawa,WAWA,2700 Sicklerville Rd,Sicklerville,NJ,08081,Camden
+Wawa,WAWA,3 Arneys Mt Rd,Pemberton,NJ,08068,Burlington
+Wawa,WAWA,511 Berlin - Cross Keys Rd,Sicklerville,NJ,08081,Camden
+Wawa,WAWA,800 Lacey Rd,Forked River,NJ,08731,Ocean
+Wawa,WAWA,2290 Clement Ave,Pennsauken Township,NJ,08030,Camden
+Wawa,WAWA,320 NJ-72,Manahawkin,NJ,08050,Ocean
+Wawa,WAWA,179 NJ-37,Toms River,NJ,08755,Ocean
+Wawa,WAWA,116 Brick Blvd,Brick Township,NJ,08723,Ocean
+Wawa,WAWA,800 E Black Horse Pike,Blackwood,NJ,08012,Camden
+Wawa,WAWA,705 S Trooper Rd,Norristown,PA,19403,Montgomery
+Wawa,WAWA,7625 New Falls Rd,Levittown,PA,19055,Bucks
+Wawa,WAWA,579 N Lewis Rd,Royersford,PA,19468,Montgomery
+Wawa,WAWA,6800 Rising Sun Ave,Philadelphia,PA,19111,Philadelphia
+Wawa,WAWA,1550 Chester Pike,Folcroft,PA,19032,Delaware
+Wawa,WAWA,3520 Bethlehem Pike,Souderton,PA,18964,Montgomery
+Wawa,WAWA,6506 Frankford Ave,Philadelphia,PA,19149,Philadelphia
+Wawa,WAWA,3025 Lincoln Ave,Thorndale,PA,19372,Chester
+Wawa,WAWA,2535 Aramingo Ave,Philadelphia,PA,19125,Philadelphia
+Wawa,WAWA,901 E Baltimore Pike,Kennett Square,PA,19348,Chester
+Wawa,WAWA,119 Bethlehem Pike,Colmar,PA,18915,Montgomery
+Wawa,WAWA,1860 S Collegeville Rd,Collegeville,PA,19426,Montgomery
+Wawa,WAWA,132 Oxford Valley Rd,Hulmeville,PA,19047,Bucks
+Wawa,WAWA,1960 John Fries Hwy,Quakertown,PA,18951,Bucks
+Wawa,WAWA,1937 York Rd,Jamison,PA,18929,Bucks
+Wawa,WAWA,120 Schuylkill Rd,Phoenixville,PA,19460,Chester
+Wawa,WAWA,5008 Pennell Rd,Aston,PA,19014,Delaware
+Wawa,WAWA,2600 Grant Ave,Philadelphia,PA,19114,Philadelphia
+Wawa,WAWA,120 Eagleview Blvd,Exton,PA,19341,Chester
+Wawa,WAWA,1015 Dekalb Pike,Center Square,PA,19422,Montgomery
+Wawa,WAWA,12301 Academy Rd,Philadelphia,PA,19154,Philadelphia
+Wawa,WAWA,451 W Ridge Pike,Royersford,PA,19468,Montgomery
+Wawa,WAWA,1520 E High St,Pottstown,PA,19464,Montgomery
+Wawa,WAWA,4703 Edgemont Ave,Brookhaven,PA,19015,Delaware
+Wawa,WAWA,600 N West End Blvd,Quakertown,PA,18951,Bucks
+Wawa,WAWA,1501 West Chester Pike,West Chester,PA,19382,Chester
+Wawa,WAWA,10901 Bustleton Ave,Philadelphia,PA,19116,Philadelphia
+Wawa,WAWA,111 Morton Ave,Folsom,PA,19033,Delaware
+Wawa,WAWA,6701 Ridge Ave,Philadelphia,PA,19128,Philadelphia
+Wawa,WAWA,200 Forty Foot Rd,Hatfield,PA,19440,Montgomery
+Wawa,WAWA,7001 Roosevelt Blvd,Philadelphia,PA,19149,Philadelphia
+Wawa,WAWA,8220 Bartram Ave,Philadelphia,PA,19153,Philadelphia
+Wawa,WAWA,9377 Krewstown Rd,Philadelphia,PA,19115,Philadelphia
+Wawa,WAWA,549 W St Rd,Feasterville-Trevose,PA,19053,Bucks
+Wawa,WAWA,2480 Bethlehem Pike,Hatfield,PA,19440,Montgomery
+Wawa,WAWA,2500 Philmont Ave,Huntingdon Valley,PA,19006,Montgomery
+Wawa,WAWA,145 W Dekalb Pike,King of Prussia,PA,19406,Montgomery
+Wawa,WAWA,489 Conchester Hwy,Boothwyn,PA,19061,Delaware
+Wawa,WAWA,1145 Virginia Dr,Fort Washington,PA,19034,Montgomery
+Wawa,WAWA,2544 W Main St,Norristown,PA,19403,Montgomery
+Wawa,WAWA,201 York Rd,Willow Grove,PA,19090,Montgomery
+Wawa,WAWA,1600 Egypt Rd,Collegeville,PA,19426,Montgomery
+Wawa,WAWA,3901 Aramingo Ave,Philadelphia,PA,19137,Philadelphia
+Wawa,WAWA,3341 Grant Ave,Philadelphia,PA,19114,Philadelphia
+Wawa,WAWA,1111 Grosser Rd,Gilbertsville,PA,19525,Montgomery
+Wawa,WAWA,816 Old York Rd,Jenkintown,PA,19046,Montgomery
+Wawa,WAWA,1010 West Chester Pike,West Chester,PA,19382,Chester
+Wawa,WAWA,201 S Broad St,Philadelphia,PA,19107,Philadelphia
+Wawa,WAWA,8240 West Chester Pike,Upper Darby,PA,19082,Delaware
+Wawa,WAWA,1300 E Ridge Pike,Plymouth Meeting,PA,19462,Montgomery
+Wawa,WAWA,3620 Street Rd,Bensalem,PA,19020,Bucks
+Wawa,WAWA,601 E Street Rd,Trevose,PA,19053,Bucks
+Wawa,WAWA,545 W Trenton Ave,Morrisville,PA,19067,Bucks
+Wawa,WAWA,8250 Limekiln Pike,Wyncote,PA,19095,Montgomery
+Wawa,WAWA,1730 MacDade Boulevard,Folsom,PA,19033,Delaware
+Wawa,WAWA,435 E Baltimore Ave,Media,PA,19063,Delaware
+Wawa,WAWA,50 N Newtown Street Rd,Newtown Square,PA,19073,Delaware
+Wawa,WAWA,7912 Roosevelt Blvd,Philadelphia,PA,19152,Philadelphia
+Wawa,WAWA,101 Easton Rd,Willow Grove,PA,19090,Montgomery
+Wawa,WAWA,605 N Morehall Rd,Malvern,PA,19355,Chester
+Wawa,WAWA,1900 Market St,Philadelphia,PA,19103,Philadelphia
+Wawa,WAWA,105 Reeceville Rd,Coatesville,PA,19320,Chester
+Wawa,WAWA,3710 Lincoln Ave,Thorndale,PA,19372,Chester
+Wawa,WAWA,5597 Tulip St,Philadelphia,PA,19124,Philadelphia
+Wawa,WAWA,2131 South St,Philadelphia,PA,19146,Philadelphia
+Wawa,WAWA,910 MacDade Blvd,Collingdale,PA,19023,Delaware
+Wawa,WAWA,12004 E Roosevelt Blvd,Philadelphia,PA,19116,Philadelphia
+Wawa,WAWA,1190 Market St,Philadelphia,PA,19107,Philadelphia
+Wawa,WAWA,1300 Chestnut St,Philadelphia,PA,19107,Philadelphia
+Wawa,WAWA,1300 Chestnut St,Philadelphia,PA,19107,Philadelphia
+Wawa,WAWA,870 2nd St Pike,Richboro,PA,18954,Bucks
+Wawa,WAWA,1260 N Providence Rd,Glen Riddle,PA,19063,Delaware
+Wawa,WAWA,3300 Market St,Philadelphia,PA,19104,Philadelphia
+Wawa,WAWA,901 South St,Philadelphia,PA,19147,Philadelphia
+Wawa,WAWA,2356 US-206,Southampton Township,NJ,08088,Burlington
+Wawa,WAWA,5010 US-130,Delran,NJ,08075,Burlington
+Wawa,WAWA,51 Berkley Rd,Paulsboro,NJ,08066,Gloucester
+Wawa,WAWA,631 Mullica Hill Rd,Mullica Hill,NJ,08062,Gloucester
+Wawa,WAWA,1600 Rte 37 W,Toms River,NJ,08755,Ocean
+Wawa,WAWA,945 W Bay Ave,Barnegat,NJ,08005,Ocean
+Wawa,WAWA,201 W White Horse Pike,Berlin,NJ,08009,Camden
+Wawa,WAWA,1824 NJ-70,Cherry Hill,NJ,08003,Camden
+Wawa,WAWA,350 US-130,Burlington,NJ,08016,Burlington
+Wawa,WAWA,2920 NJ-73,Maple Shade Township,NJ,08052,Burlington
+Wawa,WAWA,135 NJ-70,Lakewood,NJ,08701,Ocean
+Wawa,WAWA,3605 NJ-38,Mt Laurel Township,NJ,08054,Burlington
+Wawa,WAWA,330 W Spruce Ave,North Wildwood,NJ,08260,Cape May
+Wawa,WAWA,16 MacArthur Blvd,Somers Point,NJ,08244,Atlantic
+Wawa,WAWA,50 Haddonfield Rd,Cherry Hill,NJ,08002,Camden
+Wawa,WAWA,329 N County Line Rd,Jackson Township,NJ,08527,Ocean
+Wawa,WAWA,692 Delsea Dr,Glassboro,NJ,08028,Gloucester
+Wawa,WAWA,6743 E Black Horse Pike,Egg Harbor Township,NJ,08234,Atlantic
+Wawa,WAWA,250 W Rte 70,Marlton,NJ,08053,Burlington
+Wawa,WAWA,500 NJ-38,Cherry Hill,NJ,08002,Camden
+Wawa,WAWA,600 NJ-38,Maple Shade Township,NJ,08052,Burlington
+Wawa,WAWA,280 White Horse Pike,Barrington,NJ,08007,Camden
+Wawa,WAWA,275 W White Horse Pike,Egg Harbor City,NJ,08215,Atlantic
+Wawa,WAWA,2 N White Horse Pike,Somerdale,NJ,08083,Camden
+Wawa,WAWA,904 Haddonfield Rd,Cherry Hill,NJ,08002,Camden
+Wawa,WAWA,1911 Taylors Ln,Cinnaminson,NJ,08077,Burlington
+Wawa,WAWA,379 Dover Rd,Toms River,NJ,08757,Ocean
+Wawa,WAWA,635 Chews Landing Rd,Lindenwold,NJ,08021,Camden
+Wawa,WAWA,2428 NJ-38,Cherry Hill,NJ,08002,Camden
+Wawa,WAWA,485 Woodbury Glassboro Rd,Sewell,NJ,08080,Gloucester
+Wawa,WAWA,690 Crescent Blvd,Brooklawn,NJ,08030,Camden
+Wawa,WAWA,2114 Church Rd,Cinnaminson,NJ,08077,Burlington
+Weis,WEIS,1050 E Philadelphia Ave,Gilbertsville,PA,19525,Montgomery
+Weis,WEIS,1551 S Valley Forge Rd,Lansdale,PA,19446,Montgomery
+Weis,WEIS,498 Pottstown Ave,Pennsburg,PA,18073,Montgomery
+Weis,WEIS,200 W Ridge Pike,Conshohocken,PA,19428,Montgomery
+Weis,WEIS,73 Old Dublin Pike,Doylestown,PA,18901,Bucks
+Weis,WEIS,25 W Germantown Pike,East Norriton,PA,19401,Montgomery
+Weis,WEIS,2100 County Line Rd,Huntingdon Valley,PA,19006,Montgomery
+WILLIAMSTOWN MARKET - OLD COUNTRY DELI,WILLIAMSTOWN MARKET,701 N Black Horse Pike,Williamstown,NJ,08094,Gloucester
