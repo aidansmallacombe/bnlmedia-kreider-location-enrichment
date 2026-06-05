@@ -8,8 +8,8 @@ The number of Kreider distributor locations by county within the target counties
 The number of Kreider distributor locations by retailers within the target counties
 
 # Data Sources:
-Kreider Farms public distributor locator: https://www.kreiderfarms.com/locations/
-SimpleMaps US ZIP Code Database: https://simplemaps.com/data/us-zips (see data/README.md for more)
+- Kreider Farms public distributor locator: https://www.kreiderfarms.com/locations/
+- SimpleMaps US ZIP Code Database: https://simplemaps.com/data/us-zips (see data/README.md for more)
 
 # ETL:
 
