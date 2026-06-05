@@ -4,8 +4,8 @@ This is a small Python ETL pipeline developed for BNL Media Vantures intended to
 Kreider Farms is a privately-owned farmstead located in Manheim, PA. They sell dairy and egg products to over 2,400 distributor locations across the US. BNL Media Ventures was interested in sourcing location-based data for distributors within 11 target counties in the Greater Philadelphia Region and Southern New Jersey.
 
 The objective was to determine:
-The number of Kreider distributor locations by county within the target counties
-The number of Kreider distributor locations by retailers within the target counties
+- The number of Kreider distributor locations by county within the target counties
+- The number of Kreider distributor locations by retailers within the target counties
 
 # Data Sources:
 - Kreider Farms public distributor locator: https://www.kreiderfarms.com/locations/
