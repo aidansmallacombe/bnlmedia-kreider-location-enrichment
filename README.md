@@ -25,11 +25,11 @@ To determine the county of the locations, zip codes from the location records we
 The location records were written to a CSV and loaded into SQLite as a database. Aggregation queries were created to count the number of locations per county and per retailer. Both query results were written to CSV’s, all three files can be found in the ‘outputs’ directory.
 
 # Results:
-2,429 distributor locations recorded
-767 distributor locations found in 11 target counties
-CSV recording location data for all 767 target distributor locations
-CSV recording number of locations per target county
-CSV recording number of locations per retailer within target counties
+- 2,429 distributor locations recorded
+- 767 distributor locations found in 11 target counties
+- CSV recording location data for all 767 target distributor locations
+- CSV recording number of locations per target county
+- CSV recording number of locations per retailer within target counties
 
 # Technologies:
 
