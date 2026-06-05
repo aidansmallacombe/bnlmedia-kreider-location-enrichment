@@ -21,7 +21,7 @@ Location records were parsed and normalized before being formatted into a json d
 
 To determine the county of the locations, zip codes from the location records were cross-matched with entries in the SimpleMaps US zip code database, which contained county data. Location records were updated with county info, and then filtered to only include records in target counties.
 
-# Load:
+### Load:
 The location records were written to a CSV and loaded into SQLite as a database. Aggregation queries were created to count the number of locations per county and per retailer. Both query results were written to CSV’s, all three files can be found in the ‘outputs’ directory.
 
 # Results:
